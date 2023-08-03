@@ -1,0 +1,17 @@
+Activaciones del SAMUR-Protección Civil
+
+
+En este conjunto de datos, se recoge el detalle de las activaciones llevadas a cabo por SAMUR–Protección Civil.
+
+La activación se define como encargos de asistencia sanitaria que supone la activación de un recurso sanitario u otro tipo de vehículo.
+
+El fichero de datos proporciona de cada activación: año, mes, hora de solicitud y de intervención, código de incidente, distrito y hospital público de traslado.
+
+Observaciones a tener en cuenta en el análisis de los datos:
+
+El código del incidente viene determinado por la información aportada por el demandante.
+Si una ambulancia atiende a tres pacientes se registran tres activaciones. Si una ambulancia se activa y se anula su aviso en ruta o antes de comenzar la ruta es una activación. Si en un aviso se activan tres ambulancias son tres activaciones.
+Las horas de intervención que aparecen en blanco son activaciones anuladas, bien por el propio demandante o por encontrarse un recurso más cercano.Aquellas activaciones que no incluyen información en el campo ‘Hospitales’ corresponden asistencias sanitarias que no finalizan con traslado hospitalario.
+
+link:
+https://datos.madrid.es/portal/site/egob/menuitem.c05c1f754a33a9fbe4b2e4b284f1a5a0/?vgnextoid=50d7d35982d6f510VgnVCM1000001d4a900aRCRD&vgnextchannel=374512b9ace9f310VgnVCM100000171f5a0aRCRD&vgnextfmt=default
